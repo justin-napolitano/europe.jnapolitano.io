@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - data aggregation
   - bsd license
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses primarily on aggregating, analyzing, and interpreting European energy market
+  data, involving data workflows, analysis, and future integration of advanced statistical or
+  machine learning methods—all hallmarks of the 'datascience' topic family.
 ---
 
 # Technical Overview: europe.jnapolitano.io
@@ -55,4 +61,5 @@ Returning to this project requires setting up an appropriate environment, likely
 ## Conclusion
 
 This project serves as a technical foundation for analyzing European energy markets, emphasizing open collaboration and extensibility. Its current state invites further development to realize its full potential as a comprehensive analytical tool.
+
 
