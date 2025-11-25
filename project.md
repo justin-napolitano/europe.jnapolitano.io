@@ -1,19 +1,30 @@
 ---
 slug: github-europe-jnapolitano-io
 id: github-europe-jnapolitano-io
-title: europe.jnapolitano.io
+title: European Energy Markets Analysis Repository Overview
 repo: justin-napolitano/europe.jnapolitano.io
 githubUrl: https://github.com/justin-napolitano/europe.jnapolitano.io
 generatedAt: '2025-11-24T21:34:40.698Z'
 source: github-auto
 summary: >-
-  A focused analysis of European energy markets, providing insights and
-  data-driven perspectives. This repository contains resources and tools for
-  examining energy trends across Europe.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a focused analysis of European energy markets with tools for data
+  aggregation and visualization.
+tags:
+  - data analysis
+  - energy markets
+  - python
+  - jupyter
+  - data visualization
+  - modular design
+  - data aggregation
+seoPrimaryKeyword: european energy markets analysis
+seoSecondaryKeywords:
+  - energy trends analysis
+  - data-driven insights
+  - python energy analysis
+  - energy market tools
+  - visualization dashboards
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
