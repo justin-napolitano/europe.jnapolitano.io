@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/europe.jnapolitano.io
 generatedAt: '2025-11-24T21:34:40.698Z'
 source: github-auto
 summary: >-
-  Explore a repository for analyzing European energy markets with tools for data
-  aggregation and visualization.
+  Explore a repository for analyzing European energy markets with tools for data aggregation and
+  visualization.
 tags:
   - data analysis
   - energy markets
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - data visualization techniques
   - energy sector insights
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -92,5 +92,6 @@ jupyter notebook
 
 
 ---
+
 
 
